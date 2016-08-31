@@ -1,7 +1,7 @@
 ﻿'''
 Made by John Ellison
 for personal use as well for the use of anyone who can benefit from it
-2015
+February 2015
 '''
 
 import feedparser, datetime, os, time, math
